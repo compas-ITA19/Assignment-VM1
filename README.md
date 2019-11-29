@@ -14,8 +14,8 @@ by [Rémy Clémente, @remy_clemente](https://www.instagram.com/p/B3zEfQFga3Q/)
 ## Required Handins
 
 Please upload to github:
-- the jupyter notebook with the ipyvolume viewers embedded.
-- a diagram like the one below that illustrates the logic of your CSG tree
+- the _jupyter notebook_ with the ipyvolume viewers embedded.
+- a _diagram_ like the one below that illustrates the logic of your CSG tree
   - ![diagram](diagram.png)
   - create it with the drawing tool of your choice or use somethong like [Graphviz](http://bit.ly/33xAcjF) for it
-- an `*.obj` file of the final mesh (using `utilities > export_ipv_mesh()`)
+- an _*.obj_ file of the final mesh (using `utilities > export_ipv_mesh()`)
